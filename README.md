@@ -4,6 +4,7 @@ Memprogram LED FlipFlop Menggunakan Bahasa C++ pada AVR Atmel ATmega 32 dan Simu
 Pada kesempatan kali ini, saya membuat sebuah project sederhana yaitu menyalakan dua buah LED secara bergantian atau LED Flipflop menggunakan AVR Atmel Atmega32 dan bahasa yang digunakan adalah C++. Pada kesempatan kali ini kita hanya menggunakan software simulasi untuk menguji program, yaitu saya menggunakan software simulasi Proteus versi 8.9 Professional dan Code Editor-nya saya menggunakan Code::Blocks versi 20.03, sedangkan untuk compiler AVR-nya saya menggunakan WinAVR, AVR-G++ (untuk bahasa C++).
 
 Link download Proteus Professional 8.9 https://dl.downloadly.ir/Files/Software2/Proteus_Professional_8.9_SP0_Build_27865_Downloadly.ir.rar
+
 Link untuk Proteus Professional 8.9 New License https://dl.downloadly.ir/Files/Software/Proteus_Professional_8.9_SP0_New_License_Downloadly.ir.rar
 
 Link Download Codeblocks-20.03-setup.exe https://sourceforge.net/projects/codeblocks/files/Binaries/20.03/Windows/codeblocks-20.03-setup.exe
