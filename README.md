@@ -7,4 +7,5 @@ Link download Proteus Professional 8.9 https://dl.downloadly.ir/Files/Software2/
 Link untuk Proteus Professional 8.9 New License https://dl.downloadly.ir/Files/Software/Proteus_Professional_8.9_SP0_New_License_Downloadly.ir.rar
 
 Link Download Codeblocks-20.03-setup.exe https://sourceforge.net/projects/codeblocks/files/Binaries/20.03/Windows/codeblocks-20.03-setup.exe
+
 Link download WinAVR https://sourceforge.net/projects/winavr/files/latest/download
